@@ -1,0 +1,1 @@
+"App dependencies should be kept in a requirements.txt, also in the root of the repo. At the moment, poetry and other types of environment spaces are not supported."
